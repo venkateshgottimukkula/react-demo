@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Post title 1",
+        "body": "This is content or body description for the post 1. This is only for demo purpose. Actual data will change."
+    },
+    {
+        "id": 2,
+        "title": "Post title 2",
+        "body": "This is content or body description for the post 2. This is only for demo purpose. Actual data will change."
+    },
+    {
+        "id": 3,
+        "title": "Post title 3",
+        "body": "This is content or body description for the post 3. This is only for demo purpose. Actual data will change."
+    },
+    {
+        "id": 4,
+        "title": "Post title 4",
+        "body": "This is content or body description for the post 4. This is only for demo purpose. Actual data will change."
+    },
+    {
+        "id": 5,
+        "title": "Post title 5",
+        "body": "This is content or body description for the post 5. This is only for demo purpose. Actual data will change."
+    }
+]
